@@ -1,3 +1,3 @@
 import { greet } from './greet.js'
 
-console.log(greet('John Doe'))
+console.log(greet('Jane'))
